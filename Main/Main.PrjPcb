@@ -81,7 +81,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WLMXCIAN
 
 [Configuration1]
 Name=Sources
@@ -1124,6 +1124,13 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=GPS_PWRKEY|NetColor=$006E6EFF
+Net2=NetName=GPS_RXD|NetColor=$006E6EFF
+Net3=NetName=GPS_TXD|NetColor=$006E6EFF
+Net4=NetName=IO16_W_CS|NetColor=$006E6EFF
+Net5=NetName=IO17_PS|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
