@@ -1,0 +1,194 @@
+Added Component: Designator=ANT(CONNECTORS RF SMD TYPE IPEX)
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "SHOU HAN(??)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "IPEX1-TXZ 142"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C3151745"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "lcsc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "link"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20220627/A0C2EF411B6F3EC53ED1A4F491E26EB6.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "IPEX1-TXZ 142"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP_0805)
+Add component (AddParameter): Name = "104"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_0805)
+Add component (AddParameter): Name = "104"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_0805)
+Add component (AddParameter): Name = "104"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP_0805)
+Add component (AddParameter): Name = "104"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP_0805)
+Add component (AddParameter): Name = "104"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP_0805)
+Add component (AddParameter): Name = "104"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP_0805)
+Add component (AddParameter): Name = "104"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP_0805)
+Add component (AddParameter): Name = "104"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP_0805)
+Add component (AddParameter): Name = "104"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT-23)
+Add component (AddParameter): Name = "Value"; Value = "C9014"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT-23)
+Add component (AddParameter): Name = "Value"; Value = "C9014"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES CHIPS SMD 0603 TYPE 1608)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES CHIPS SMD 0603 TYPE 1608)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES CHIPS SMD 0603 TYPE 1608)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES CHIPS SMD 0603 TYPE 1608)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES CHIPS SMD 0603 TYPE 1608)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES CHIPS SMD 0603 TYPE 1608)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES CHIPS SMD 0603 TYPE 1608)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005880"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SIM(SIM7670)
+Added Pin To Net: NetName=ANT Pin=ANT-1
+Added Pin To Net: NetName=ANT Pin=SIM-60
+Added Net: Name=ANT
+Added Pin To Net: NetName=GND Pin=ANT-2
+Added Pin To Net: NetName=GND Pin=ANT-3
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Pin To Net: NetName=GND Pin=SIM-2
+Added Pin To Net: NetName=GND Pin=SIM-17
+Added Pin To Net: NetName=GND Pin=SIM-18
+Added Pin To Net: NetName=GND Pin=SIM-29
+Added Pin To Net: NetName=GND Pin=SIM-39
+Added Pin To Net: NetName=GND Pin=SIM-45
+Added Pin To Net: NetName=GND Pin=SIM-46
+Added Pin To Net: NetName=GND Pin=SIM-54
+Added Pin To Net: NetName=GND Pin=SIM-58
+Added Pin To Net: NetName=GND Pin=SIM-59
+Added Pin To Net: NetName=GND Pin=SIM-61
+Added Pin To Net: NetName=GND Pin=SIM-62
+Added Pin To Net: NetName=GND Pin=SIM-63
+Added Pin To Net: NetName=GND Pin=SIM-64
+Added Pin To Net: NetName=GND Pin=SIM-65
+Added Pin To Net: NetName=GND Pin=SIM-69
+Added Pin To Net: NetName=GND Pin=SIM-70
+Added Pin To Net: NetName=GND Pin=SIM-71
+Added Pin To Net: NetName=GND Pin=SIM-72
+Added Pin To Net: NetName=GND Pin=SIM-73
+Added Pin To Net: NetName=GND Pin=SIM-74
+Added Pin To Net: NetName=GND Pin=SIM-75
+Added Pin To Net: NetName=GND Pin=SIM-76
+Added Pin To Net: NetName=GND Pin=SIM-77
+Added Pin To Net: NetName=GND Pin=SIM-78
+Added Pin To Net: NetName=GND Pin=SIM-79
+Added Pin To Net: NetName=GND Pin=SIM-80
+Added Pin To Net: NetName=GND Pin=SIM-81
+Added Pin To Net: NetName=GND Pin=SIM-82
+Added Pin To Net: NetName=GND Pin=SIM-83
+Added Pin To Net: NetName=GND Pin=SIM-84
+Added Pin To Net: NetName=GND Pin=SIM-85
+Added Pin To Net: NetName=GND Pin=SIM-86
+Added Pin To Net: NetName=GND Pin=SIM-87
+Added Pin To Net: NetName=GND Pin=SIM-88
+Added Pin To Net: NetName=GND Pin=SIM-89
+Added Pin To Net: NetName=GND Pin=SIM-91
+Added Pin To Net: NetName=GND Pin=SIM-92
+Added Pin To Net: NetName=GND Pin=SIM-94
+Added Net: Name=GND
+Added Pin To Net: NetName=IO27_GSM_PWRKEY Pin=R1-2
+Added Net: Name=IO27_GSM_PWRKEY
+Added Pin To Net: NetName=M2M_RXD Pin=SIM-10
+Added Net: Name=M2M_RXD
+Added Pin To Net: NetName=M2M_TXD Pin=SIM-9
+Added Net: Name=M2M_TXD
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=R5-2
+Added Pin To Net: NetName=NetC7_1 Pin=SIM-31
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=R7-2
+Added Pin To Net: NetName=NetC8_1 Pin=SIM-33
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=R6-2
+Added Pin To Net: NetName=NetC9_1 Pin=SIM-32
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R2-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R3-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R4-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=PWRKEY Pin=Q1-3
+Added Pin To Net: NetName=PWRKEY Pin=SIM-1
+Added Net: Name=PWRKEY
+Added Pin To Net: NetName=RESET_SIM Pin=Q2-3
+Added Pin To Net: NetName=RESET_SIM Pin=SIM-16
+Added Net: Name=RESET_SIM
+Added Pin To Net: NetName=Sim_CLK Pin=R6-1
+Added Net: Name=Sim_CLK
+Added Pin To Net: NetName=Sim_DATA Pin=R5-1
+Added Net: Name=Sim_DATA
+Added Pin To Net: NetName=Sim_RST Pin=R7-1
+Added Net: Name=Sim_RST
+Added Pin To Net: NetName=Sim_VSIM Pin=C5-2
+Added Pin To Net: NetName=Sim_VSIM Pin=C6-2
+Added Pin To Net: NetName=Sim_VSIM Pin=SIM-30
+Added Net: Name=Sim_VSIM
+Added Pin To Net: NetName=VBAT Pin=C1-2
+Added Pin To Net: NetName=VBAT Pin=C2-2
+Added Pin To Net: NetName=VBAT Pin=C3-2
+Added Pin To Net: NetName=VBAT Pin=C4-2
+Added Pin To Net: NetName=VBAT Pin=SIM-55
+Added Pin To Net: NetName=VBAT Pin=SIM-56
+Added Pin To Net: NetName=VBAT Pin=SIM-57
+Added Net: Name=VBAT
+Added Net: Name=VCC5V
+Added Pin To Net: NetName=xb_Reset Pin=R3-2
+Added Net: Name=xb_Reset
+Added Class: Name=SCH_SIM
